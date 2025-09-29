@@ -20,5 +20,6 @@ build-backend = "poetry.core.masonry.api"
 dev = [
     "black (>=25.9.0,<26.0.0)",
     "flake8 (>=7.3.0,<8.0.0)",
-    "mypy (>=1.18.2,<2.0.0)"
+    "mypy (>=1.18.2,<2.0.0)",
+    "isort (>=6.0.1,<7.0.0)"
 ]
